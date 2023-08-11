@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.bg-cont {
+  background-color: #1e293b;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Bree Serif';
+}
+
+h1 {
+  color: #f0bb03;
+  font-size: 32px;
+  font-weight: 600;
+}
+
+p {
+  color: #ffffff;
+}
+
+button {
+  background-color: #ffffff;
+  color: #1e293b;
+  padding: 8px;
+  border-radius: 8px;
+  font-weight: 600;
+}
